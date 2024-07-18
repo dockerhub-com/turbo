@@ -1,1 +1,3 @@
-# turbo
+#! /bin/bash
+
+hi hello 
